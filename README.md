@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaylen
 - 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning Python, PHP and Javascript
+- 🌱 I’m currently learning Python, PHP, Javascript and Java
 - 💞️ I’m looking to collaborate on various open-source projects, I have a keen interest in security related topics
 - 📫 How to reach me I can be reached on linkedin at https://www.linkedin.com/in/kaylen-anderwald/
 
