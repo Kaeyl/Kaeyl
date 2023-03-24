@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaylen
-- 👀 I have a strong passion for averything Python!
+- 👀 I have a strong passion for everything Python!
 - 🌱 I’m currently learning PHP, Javascript and Java
 - 💞️ I’m looking to collaborate on various open-source projects.
 - 📫 You can reach me on linkedin at https://www.linkedin.com/in/kaylen-anderwald/
